@@ -1,5 +1,3 @@
-Got it 🚀 — here’s a clean README.md for your Django Unit Converter project. It explains setup, usage, and structure.
-
 # 🌐 Django Unit Converter
 
 A simple and aesthetic **Unit Converter Web App** built with **Python, Django, HTML, and CSS**.  
